@@ -1,10 +1,8 @@
--------------------Printing concrete Type and value of interface----------------------
+// -------------------Printing concrete Type and value of interface----------------------
 package main
 
 import (
 	"fmt"
-
-	"github.com/fatih/structtag"
 )
 
 type SalaryCalculator interface {
